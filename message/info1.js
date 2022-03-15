@@ -14,13 +14,13 @@ return`
 *│▸* SCRIPT BY
 *│*   Decode Denpa
 *│*   X-Dev Team
-*│*   Yogi PW
+*│*   Vanzz ofc
 *│*   Hexagon
 *│*   Dttaz
 *│*
 *│▸* FEATURE  BY  
 *│*   Decode Denpa
-*│*   Fernazer
+*│*   VANZZ OFC
 *│*   X-Dev Team
 *│*   Resta Gamteng
 *│*   Zeeone Ofc

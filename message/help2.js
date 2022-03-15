@@ -260,8 +260,8 @@ return`
 
 
 𝗧𝗛𝗔𝗡𝗞𝗦 𝗧𝗢 : 
+ ▢  : VANZZ OFC
  ▢  : Dittaz
- ▢  : Nina kawai
  ▢  : Pemuda Teknologi
  ▢  : Zeeone ofc
  ▢  : Yudha Perdana
