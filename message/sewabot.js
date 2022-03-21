@@ -5,19 +5,19 @@ Berikut adalah list harga untuk sewa botz
 
 *╭─▸*「 𝗟𝗜𝗦𝗧 𝗦𝗘𝗪𝗔 」
 *┴*
-*│▸* 1 hari = free       
-*│▸* 7 hari = Rp.7000        
-*│▸* 30 hari = Rp.15.000                 
-*│▸* Permanent = Rp.30.000               
+*│▸* 1 hari = Rp.1.000
+*│▸* 1 Bulan = Rp.3.000   
+*│▸* 1 Premium = Rp.5.000      
+*│▸* 1 Permanen = Rp.10.000
 *┬*
 *╰────────────[*
 
 *╭─▸*「 𝗣𝗔𝗬𝗠𝗘𝗡𝗧 」
 *┴*
-*│▸* Shopee : ${settings.Shopee}
-*│▸* Gopay : ${settings.Gopay}
-*│▸* Dana : ${settings.Dana}
-*│▸* Ovo : ${settings.Ovo}
+*│▸* Shopee : ${settings.setPayment.Shopee}
+*│▸* Gopay : ${settings.setPayment.Gopay}
+*│▸* Dana : ${settings.setPayment.Dana}
+*│▸* Ovo : ${settings.setPayment.Ovo}
 *┬*
 *╰────────────[*
 
