@@ -1,51 +1,81 @@
-{
-     "prefix": "!",
-     "namalu" : "ABDI",
-     "nomerlu": "6285824629954",
-     "namabot": "VANZZ BOTZ",
-     "nomerbot": "628159647567",
-     "gender" : "FEMALE",
-     "copyright" : "VANZZ BOT",
-     "Shopee" : "-",
-     "Gopay" : "6283856885495",
-     "Dana" : "6283856885495",
-     "Ovo" : "6283856885495",
-     "namaDocument": "VANZZ OFC",
-     "joinGcExtream": false,
-     "Anticall": true,
-     "multi": true,
-     "onepref" : false,
+{    
+     "Version": "3.5.0",
+     "namalu" : "VANZZOFC",
+     "nomerlu": "6285824659954",
+     "namabot": "VANZZBotz",
+     "nomerbot": "6283159647567",
+     "gender" : "Female",
+     "copyright" : "VANZZ",
+     "namaDocument": "VANZZ×AMELIA",
+     "joinGcExtream": true,
+
      "publik": true,
      "forwarding": false,
+     "Loading": false,
      "antitroli" : false,
+     
      "autovn" : false,
      "autosticker" : false,
      "autorespon" : false,
      "autotyping" : false,
      "autoread" : true,
-     "katalogMenu": false,
-     "troliMenu": false,
-     "lokasiMenu": true,
-     "documentMenu": false,
-     "autoblockcmd" : true,
-     "autoWelcome": false,
-     "welcomeType1": false,
-     "welcomeType2": false,
-     "welcomeType3": true,
-     "chatBot" : false,
-     "teksChat" : "Gada menu",
+     "autoblockcmd" : false, 
+     "autobio" : true,
+     "autoLevel" : true,
+     "AutoClearChat": true,
      "totalForward" : 1000000,
      "explain": false,
+     "jumlahTroli": 2022,
+     
+     "Jika ada yang telpon, bot bakal kirim bug  ke penelpon jika aktikan fitur sendbug": "ke true",
+       "Anticall": true,
+      "sendbug": true,
+     
+     "SetFunction": {
+     "Daftar_Font": "block, slick, tiny, grid, pallet, shade, chrome, simple, simpleBlock, 3d, simple3d, huge, console",        
+     "font": "simple",                      
+     "self": "SELF",
+     "bot": "BOT",
+     "ext": "REVOLUTION"
+     },
+     
+     "antiPrivateChat": {
+     "chatBot" : false,
+     "teksChat" : "Gada menu"
+     },
+     
+     "setPayment": {
+     "Shopee" : "-",
+     "Gopay" : "083856885495",
+     "Dana" : "083856885495",
+     "Ovo" : "083856885495"
+     },
+     
+     "setPrefix": {
+     "prefix": "!",
+     "multi": true,
+     "onepref" : false,
+     "nopref" : false
+     },
+                                                                                                                                                                                                                                   
+     "setWelcome": {
+     "autoWelcome": false,
+     "welcomeType": "type3",
+     "background": "https://tinyurl.com/yxvl8h3a"
+     },    
+     
+     "setMenu": "document",    
+      "setBc":  "lokasi",  
+     "setReply": "web",  
+     "setQuoted": "ftoko",
+     
      "gamewaktu": 60,
 	 "limitCount": 30,
 	 "gcount": {
-		"prem": 30,
-		"user": 20
-},
+	 "prem": 60,
+	 "user": 20
+}
     
-     "zeks": "officialdittaz", 
-     "zenzkey": "officialdittaz",
-     "xteam": "170342e43e147afa"
 }
 
    
